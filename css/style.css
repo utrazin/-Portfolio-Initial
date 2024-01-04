@@ -238,6 +238,7 @@ header {
 
 .links-introducao a {
     text-decoration: none;
+    color: #8f52b8;
 }
 
 #github-top,
@@ -961,7 +962,7 @@ header {
     padding: 0.3rem 0.5rem;
     border: 2px solid #802bb9;
     border-radius: 0.8rem;
-    color: #000;
+    color: #8f52b8;
     text-decoration: none;
     transition: 1s ease-in-out;
     animation: pulse-button 0.8s infinite both;
